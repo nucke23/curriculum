@@ -24,7 +24,7 @@ At the end of this lesson, you should be able to do the following:
     <li>A web page is the page you look at in your browser.</li>
     <li>A web server is the computer that has the code for how the webpage should look and act.</li>
     <li>A web browser is a program on a computer that displays web pages.</li>
-    <li>A search engine is a web server that searches all other web servers for information. A user can then pull up the web page on their web browser and search for a site.</li>
+    <li>A search engine is a web service that searches all other web servers for information. A user can then pull up the web page on their web browser and search for a site.</li>
   </ul></ul>
  </details>
  
